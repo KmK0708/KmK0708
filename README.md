@@ -1,6 +1,6 @@
 ## 안녕하세요 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=김주영%20입니다&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20To%20JuYoung's%20Github&fontSize=70)
 
 
 
