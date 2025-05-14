@@ -1,9 +1,15 @@
-## 안녕하세요 김주영입니다.👋
+<!-- 헤더 이미지 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20JuYoung's%20Github&fontSize=50" />
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20JuYoung's%20Github&fontSize=50)
+<br />
 
-## Stack
+## 🛠 Stack
 
+<!-- 여기에 사용 스택 아이콘 또는 리스트를 삽입하세요 -->
+
+<br />
 
 ## 👀 Today's Visitor
 
