@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20JuYoung's%20Github&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20JuYoung's%20Github&fontSize=50" width="100%" />
 </p>
 
 <br />
