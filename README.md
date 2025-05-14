@@ -1,27 +1,33 @@
-<!-- 헤더 이미지 -->
+<!-- 헤더 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20JuYoung's%20Github&fontSize=50" />
 </p>
 
 <br />
 
-## 🛠 Stack
+<h2 align="center">🛠 Stack</h2>
 
-<!-- 여기에 사용 스택 아이콘 또는 리스트를 삽입하세요 -->
+<p align="center">
+  <!-- 예시: 기술 스택 아이콘 -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-<br />
+<br /><br />
 
-## 👀 Today's Visitor
+<h2 align="center">👀 Today's Visitor</h2>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKmK0708%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KmK0708&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
   </a>
 </p>
 
 <br /><br />
 
-<!-- 푸터 이미지 -->
+<!-- 푸터 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="80%" />
 </p>
