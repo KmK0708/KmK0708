@@ -9,7 +9,7 @@
 <h2 align="center">🙋‍♂️ 안녕하세요, 김주영입니다!</h2>
 
 <p align="center">
-  현재 Python과 Java를 중심으로<br />
+  현재 Python을 중심으로<br />
   백엔드 개발과 알고리즘, 데이터 처리에 대해 공부하고 있습니다.<br />
   간단한 프로젝트와 실습을 통해 꾸준히 실력을 쌓아가는 중입니다.<br />
   <br />
@@ -38,6 +38,6 @@
 
 <!-- 푸터 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%" />
 </p>
 
