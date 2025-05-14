@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="https://your-notion-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="https://gold-century-3b0.notion.site/Kim-Ju-Young-1ad3bfade932802b9be3d6a2b74de08d?pvs=4" />
+  <a href="https://gold-century-3b0.notion.site/Kim-Ju-Young-1ad3bfade932802b9be3d6a2b74de08d?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션링크" />
   </a>
 </p>
 
