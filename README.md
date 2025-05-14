@@ -17,13 +17,6 @@
 
 <br /><br />
 
-<h2 align="center">👀 Today's Visitor</h2>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=KmK0708-profile" />
-</p>
-
-<br /><br />
 
 <!-- 푸터 -->
 <p align="center">
