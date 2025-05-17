@@ -1,6 +1,7 @@
 <!-- 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0%20%EB%82%98%EB%88%84%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%2C%20%EA%B9%80%EC%A3%BC%EC%98%81&fontSize=40" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NICE%20TO%20MEET%20YOU%20%F0%9F%A4%97)
+</div>
 </p>
 
 <br />
