@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=김주영의%20코드%20저장소%20%20%F0%9F%A4%97" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=김주영의%20기록%20저장소%20%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80" />
 </p>
 
 <br />
