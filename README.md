@@ -1,8 +1,7 @@
 <!-- 헤더 -->
 <p align="center">
-<div>
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NICE%20TO%20MEET%20YOU%20%F0%9F%A4%97)
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=김주영의%20기록%20저장소%20%20%F0%9F%A4%97" />
+</p>
 
 <br />
 
