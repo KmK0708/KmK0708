@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20KimJuYoung%20Github&fontSize=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20반가워요!%20Github&fontSize=50" width="100%" />
 </p>
 
 <br />
