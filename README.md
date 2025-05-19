@@ -13,7 +13,11 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션링크" />
   </a>
 </p>
+
+<p align="center">
 (필기)
+</p>
+
 <p align="center">
   현재 Python을 중심으로<br />
   백엔드 개발과 알고리즘, 데이터 처리에 대해 공부하고 있습니다.<br />
@@ -27,7 +31,9 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션링크" />
   </a>
 </p>
+<p align="center">
 (이력서)
+</p>
 <br /><br />
 
 ---
