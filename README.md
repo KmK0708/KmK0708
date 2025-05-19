@@ -5,9 +5,6 @@
 
 <br />
 
-<!-- 자기소개 -->
-<h2 align="center">🙋‍♂️ 안녕하세요, 김주영입니다!</h2>
-
 <p align="center">
   <a href="https://gold-century-3b0.notion.site/2025-1ac3bfade93280eb9571e8d3f97096e4?pvs=74" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션링크" />
@@ -17,6 +14,9 @@
 <p align="center">
 (필기)
 </p>
+
+<!-- 자기소개 -->
+<h2 align="center">🙋‍♂️ 안녕하세요, 김주영입니다!</h2>
 
 <p align="center">
   현재 Python을 중심으로<br />
