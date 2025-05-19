@@ -9,6 +9,12 @@
 <h2 align="center">🙋‍♂️ 안녕하세요, 김주영입니다!</h2>
 
 <p align="center">
+  <a href="https://gold-century-3b0.notion.site/2025-1ac3bfade93280eb9571e8d3f97096e4?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션링크" />
+  </a>
+</p>
+
+<p align="center">
   현재 Python을 중심으로<br />
   백엔드 개발과 알고리즘, 데이터 처리에 대해 공부하고 있습니다.<br />
   간단한 프로젝트와 실습을 통해 꾸준히 실력을 쌓아가는 중입니다.<br />
