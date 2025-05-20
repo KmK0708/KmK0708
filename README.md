@@ -9,23 +9,22 @@
 <h2 align="center">🙋‍♂️ 안녕하세요, 김주영입니다!</h2>
 
 <p align="center">
-  현재 Python을 중심으로<br />
-  현재는 Python을 중심으로 백엔드 개발, 알고리즘, 데이터 처리 분야에 관심을 갖고 공부하고 있으며,<br />
+  현재 Python을 중심으로 백엔드 개발, 알고리즘, 데이터 처리 분야에 관심을 갖고 공부하고 있으며,<br />
   간단한 프로젝트와 실습을 통해 꾸준히 실력을 다지고 있습니다.<br />
+  <br>
   AI랑 자동화, 그리고 데이터를 더 효율적으로 다루는 방법에 관심이 많습니다.<br />
   요즘은 사용자가 편하게 느낄 수 있는 기능 만들기나<br />
-  깔끔하고 정리된 프로젝트 구조 짜기 같은 부분에도 재미를 느끼고 있어요.<br />
+  깔끔하고 정리된 프로젝트 구조 짜기 같은 부분에도 관심을 가지고 있어요.<br />
+  <br>
   어떻게 하면 더 나은 코드와 서비스가 될 수 있을지 늘 고민하며 개발하고 있습니다.<br />
-  
-  <br />
-  더 자세한 정보는 아래 노션 링크에서 확인하실 수 있습니다 👇
+
 </p>
 
 <br /><br />
 
 📌 더 자세한 정보는 아래 노션 링크에서 확인하실 수 있습니다 👇  
-[📄 Notion 이력서 보기](https://gold-century-3b0.notion.site/Kim-Ju-Young-1ad3bfade932802b9be3d6a2b74de08d?pvs=4)  
-[📄 Notion 필기 노트 보기](https://gold-century-3b0.notion.site/2025-1ac3bfade93280eb9571e8d3f97096e4?pvs=74)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="20"/> 이력서 보기](https://gold-century-3b0.notion.site/Kim-Ju-Young-1ad3bfade932802b9be3d6a2b74de08d?pvs=4)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="20"/> 필기 노트 보기](https://gold-century-3b0.notion.site/2025-1ac3bfade93280eb9571e8d3f97096e4?pvs=74)
 
 
 <br /><br />
