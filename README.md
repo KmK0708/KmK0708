@@ -43,6 +43,9 @@
 ### 🏆 Contests / 공모전
 - 2025.05 미래내일일경험 프로젝트형 - <b> 우울증 예방을 위한 AI 에이전트 기반 자동일기 앱 ~ing </b>
 
+### Ropositories / 레포지토리
+(https://github.com/KmK0708/py_codeSolve.git)
+
 <!-- 스택 섹션 -->
 <h2 align="center">🛠 Stack</h2>
 
