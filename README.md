@@ -50,8 +50,7 @@
 <h2 align="center">🛠 Stack</h2>
 
 <p align="center">
-## 🛠 Stack
-
+  
 ### 💻 Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
