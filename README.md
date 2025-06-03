@@ -45,12 +45,26 @@
 
 ### 🗃️ Ropositories / 레포지토리
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/> 파이썬 문제풀이 모음집](https://github.com/KmK0708/py_codeSolve.git)
+🛠 Stack
+💻 Language
 
+
+
+
+
+
+🧰 Tools & IDE
+
+
+
+🔧 Version Control
+
+
+🗄️ Database
 <!-- 스택 섹션 -->
 <h2 align="center">🛠 Stack</h2>
 
 <p align="center">
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
