@@ -23,8 +23,8 @@
 <br /><br />
 
 📌 더 자세한 정보는 아래 노션 링크에서 확인하실 수 있습니다 👇  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="20"/> 이력서 보기](https://gold-century-3b0.notion.site/Kim-Ju-Young-1ad3bfade932802b9be3d6a2b74de08d?pvs=4)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="20"/> 필기 노트 보기](https://gold-century-3b0.notion.site/2025-1ac3bfade93280eb9571e8d3f97096e4?pvs=74)
+### [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="30"/> 이력서 보기](https://gold-century-3b0.notion.site/Kim-Ju-Young-1ad3bfade932802b9be3d6a2b74de08d?pvs=4)  
+### [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="30"/> 필기 노트 보기](https://gold-century-3b0.notion.site/2025-1ac3bfade93280eb9571e8d3f97096e4?pvs=74)
 
 
 <br /><br />
